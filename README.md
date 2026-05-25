@@ -49,14 +49,6 @@ LUMS---CREATIVE-WORLD/
 └── assets/           # Images and media
 ```
 
----
-
-## 📸 Preview
-
-![LUMIS Studio Preview](https://images.stockcake.com/public/3/8/f/38feb489-dca7-498d-8b12-27f7740f236e_large/creative-light-bulb-stockcake.jpg)
-
----
-
 ## 👤 Author
 
 **Eng. Seif Eldeen**
