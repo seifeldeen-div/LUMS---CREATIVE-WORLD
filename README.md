@@ -1,4 +1,4 @@
-# LUMIS Studio — Creative World 🌐
+# LUMIS Studio — Creative World 
 
 > A design & technology studio landing page crafting extraordinary digital experiences that define tomorrow's standards.
 
